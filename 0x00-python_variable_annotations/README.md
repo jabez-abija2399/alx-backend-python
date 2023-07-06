@@ -43,3 +43,7 @@
 * [3-to-str.py](./3-to_str.py) 3.Basic annotations - to string 
 * [4-define_variable.py](./4-define_variable.py) 4. Define variables
 * [5-sum_list.py](./5-sum_list.py) 5. Complex types - list of floats 
+* [6-sum_list.py](./6-sum_list.py) 6. Complex types - mixed list 
+* [7-to_kv.py](./7-to_kv.py) 7. Complex types - string and int/float to tuple 
+* [8-make_multiplier.py](./8-make_multiplier.py) 8. Complex types - functions 
+* [9-element_lenth.py](./9-element_lenth.py) 9. Let's duck type an iterable object 
