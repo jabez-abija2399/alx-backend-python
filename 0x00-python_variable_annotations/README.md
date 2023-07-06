@@ -35,3 +35,11 @@
 * All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 * A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 
+## Tasks:
+
+* [0-add.py]('./0-add.py') 0.Basic annotations  add 
+* [1-concat.py](./concat.py) 1.Basic annotations - concat 
+* [2-floor.py](./2-floor.py) 2. Basic annotations - floor 
+* [3-to-str.py](./3-to_str.py) 3.Basic annotations - to string 
+* [4-define_variable.py](./4-define_variable.py) 4. Define variables
+* [5-sum_list.py](./5-sum_list.py) 5. Complex types - list of floats 
