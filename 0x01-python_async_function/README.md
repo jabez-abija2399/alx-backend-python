@@ -33,8 +33,8 @@
 
 ## Tasks
 
-[0-basic_async_syntax.py](./0-basic_async_syntax.py) 0. The basics of async
-[1-concurrent_coroutine.py](./1-concurrent_coroutine.py) 1. Let's execute multiple coroutines at the same time with async 
-[2-measure_runtime.py](./2-measure_runtime.py) 3. Tasks 
-[3-tasks.py](./3-tasks.py) 3. Tasks
-[4-tasks.py](./4-tasks.py) 4. Tasks
+* [0-basic_async_syntax.py](./0-basic_async_syntax.py) 0. The basics of async
+* [1-concurrent_coroutine.py](./1-concurrent_coroutine.py) 1. Let's execute multiple coroutines at the same time with async 
+* [2-measure_runtime.py](./2-measure_runtime.py) 3. Tasks 
+* [3-tasks.py](./3-tasks.py) 3. Tasks
+* [4-tasks.py](./4-tasks.py) 4. Tasks
