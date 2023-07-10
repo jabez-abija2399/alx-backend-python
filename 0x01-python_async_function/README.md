@@ -33,5 +33,6 @@
 
 ## Tasks
 
-[0-basic_async_syntax.py](./0-basic_async_syntax.py)
+[0-basic_async_syntax.py](./0-basic_async_syntax.py) 0. The basics of async
+[1-concurrent_coroutine.py](./1-concurrent_coroutine.py) 1. Let's execute multiple coroutines at the same time with async 
 
