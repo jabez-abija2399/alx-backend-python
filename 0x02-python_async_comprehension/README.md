@@ -27,3 +27,5 @@
 * All your functions and coroutines must be type-annotated.
 
 ## Tasks
+
+* [0-async_generator.py](./0-async_generator.py) 0. Async Generator 
