@@ -7,3 +7,7 @@
 ## [0x01-python_async_function](https://github.com/jabez-abija2399/alx-backend-python/tree/main/0x01-python_async_function)
 ### It focus on
 * Python - Async
+
+## [0x02-python_async_comprehension](https://github.com/jabez-abija2399/alx-backend-python/tree/main/0x02-python_async_comprehension)
+### It focus on 
+* python async comprehension
