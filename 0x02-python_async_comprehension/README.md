@@ -30,3 +30,4 @@
 
 * [0-async_generator.py](./0-async_generator.py) 0. Async Generator 
 * [1-async_comprehension.py](./1-async_comprehension.py) 1. Async Comprehensions 
+* [2-measure_runtime.py](./2-measure_runtime.py) 2. Run time for four parallel comprehensions 
