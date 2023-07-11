@@ -29,3 +29,4 @@
 ## Tasks
 
 * [0-async_generator.py](./0-async_generator.py) 0. Async Generator 
+* [1-async_comprehension.py](./1-async_comprehension.py) 1. Async Comprehensions 
