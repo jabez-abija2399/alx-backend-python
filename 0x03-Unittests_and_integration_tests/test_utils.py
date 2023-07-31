@@ -31,7 +31,7 @@ class TestAccessNestedMap(unittest.TestCase):
 
 
 class TestGetJson(unittest.TestCase):
-    """ TESTCASE  """
+    """ TESTCASE """
     """ to test the function for following inputs """
     @parameterized.expand([
         ("http://example.com", {"payload": True}),
@@ -46,7 +46,7 @@ class TestGetJson(unittest.TestCase):
 
 
 class TestMemoize(unittest.TestCase):
-    """ TESTCASE  """
+    """ TESTCASE """
     def test_memoize(self):
         """ Test that when calling a_property twice, the correct result is
             returned but a_method is only called once using assert_called_once
@@ -59,7 +59,7 @@ class TestMemoize(unittest.TestCase):
 
             @memoize
             def a_property(self):
-                """  property """
+                """ property """
                 return self.a_method()
         with patch.object(TestClass, "a_method") as mockMethod:
             test_class = TestClass()
